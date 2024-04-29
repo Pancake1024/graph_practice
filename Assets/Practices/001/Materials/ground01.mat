@@ -132,7 +132,7 @@ Material:
     - _DissolveProgress: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _EdgeWith: 0.01
+    - _EdgeWith: 0
     - _EmmisionIntensity: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
