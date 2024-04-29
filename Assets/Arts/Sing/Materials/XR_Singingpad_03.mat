@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: XR_Singingpad_03
-  m_Shader: {fileID: -6465566751694194690, guid: 5d4737e8f5f0e6c45993a919056b6356, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 9b0b12346d9d61346be0a787fe001dc5, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
